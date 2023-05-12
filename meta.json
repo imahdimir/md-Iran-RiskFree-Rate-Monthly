@@ -1,0 +1,11 @@
+{
+    "dcs": "Risk Free Rate",
+    "tcol": "JMonth",
+    "start": "1387-08",
+    "end": "1399-04",
+    "freq": "M",
+    "cols": [
+        "JMonth",
+        "RiskFreeRateAPR"
+    ]
+}
